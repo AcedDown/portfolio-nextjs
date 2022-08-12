@@ -11,29 +11,26 @@ const About = () => {
           <p className='uppercase text-xl tracking-widest text-[#5651e5]'>
             About
           </p>
-          <h2 className='py-4'>Who I Am</h2>
+          <h2 className='py-4'>Who Are We</h2>
           <p className='py-2 text-gray-600'>
-            / / I am not your average developer
+            / / We are not your average developers
           </p>
           <p className='py-2 text-gray-600'>
-            I have spent the last 12 years in the fire service working as a
-            professional firefighter/paramedic. I have always had a knack for
-            technology and working with computers. In 2019 I started working
-            with HTML and CSS to make some minor edits on a small business
-            website that I was operating. What I thought was just a few small
-            edits turned into a love for programming.
+            We (Ace & Levi) have always had a knack for
+            technology and working with computers as well as making games, In 2020, We started working
+            with HTML and CSS to make some minor edits on a small about of a game
+            website that we were operating. What we thought was just a few small
+            edits turned into a love for developing and modeling on Roblox.
           </p>
           <p className='py-2 text-gray-600'>
-            Fascinated with how intricate programming can be I was quickly drawn
-            to learn more. I started learning javascript and was even more
-            enthused with making websites interactive. I then started
-            freelancing for e-commerce companies on the Shopify platform. I am
-            now spending my time building projects with React JS, Firebase, and
-            learning new technologies.
+            Fascinated with how intricate programming can be we were quickly drawn
+            to learn more. Ace started learning javascript and was even more
+            enthused with making websites interactive. Levi then started
+            learning to make roblox games and here we are, our very first creation; AliveHood.
           </p>
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>
-              Check out some of my latest projects.
+              Check out some of our other projects.
             </p>
           </Link>
         </div>
