@@ -26,7 +26,7 @@ const About = () => {
             Fascinated with how intricate programming can be we were quickly drawn
             to learn more. Ace started learning javascript and was even more
             enthused with making websites interactive. Levi then started
-            learning to make roblox games and here we are, our very first creation; AliveHood.
+            learning to make roblox games & models and here we are, our very first creation; AliveHood.
           </p>
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>
